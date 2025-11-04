@@ -85,5 +85,5 @@ See the included LICENSE
 
 💡 Credits
 
-Developed by Nazar Zagriychuk
+Developed by Nazar Zagrijchuk
 Inspired by the idea of creating a simple, open-source solution to diagnose and clean Minecraft modpacks automatically.
